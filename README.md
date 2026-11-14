@@ -1,20 +1,21 @@
 <div align="center">
 
 # 👋 Hi, I'm Andrey Gutierrez
-**Java Dev in training | Costa Rica 🇨🇷**
+**Backend Developer Jr | Costa Rica 🇨🇷**
 
-### 🌱 I'm learning Java, Git and MySQL
+### 🌱 I'm learning to become a Backend Developer
 
 </div>
 
-### 🛠️ Languages and Tools:
+### 🛠️ Languages and Tools I'm learning:
 
 <div align="center">
 
 [Java](https://skillicons.dev/icons?i=java)
+[MySQL](https://skillicons.dev/icons?i=mysql)
+[SpringBoot](https://skillicons.dev/icons?i=spring)
 [Git](https://skillicons.dev/icons?i=git)
 [GitHub](https://skillicons.dev/icons?i=github)
-[MySQL](https://skillicons.dev/icons?i=mysql)
 [IntelliJ](https://skillicons.dev/icons?i=idea)
 
 </div>
