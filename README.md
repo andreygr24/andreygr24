@@ -1,16 +1,28 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**andreygr24/andreygr24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Andrey Gutierrez
+**Java Dev in training | Costa Rica 🇨🇷**
 
-Here are some ideas to get you started:
+### 🌱 I'm learning Java, Git and MySQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+### 🛠️ Languages and Tools:
+
+<div align="center">
+
+[Java](https://skillicons.dev/icons?i=java)
+[Git](https://skillicons.dev/icons?i=git)
+[GitHub](https://skillicons.dev/icons?i=github)
+[MySQL](https://skillicons.dev/icons?i=mysql)
+[IntelliJ](https://skillicons.dev/icons?i=idea)
+
+</div>
+
+### 📊 My stats:
+
+<div align="center">
+
+[GitHub stats](https://github-readme-stats.vercel.app/api?username=andregr24&show_icons=true&theme=dracula)
+
+</div>
