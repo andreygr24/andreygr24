@@ -16,7 +16,6 @@
 [SpringBoot](https://skillicons.dev/icons?i=spring)
 [Git](https://skillicons.dev/icons?i=git)
 [GitHub](https://skillicons.dev/icons?i=github)
-[IntelliJ](https://skillicons.dev/icons?i=idea)
 
 </div>
 
